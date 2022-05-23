@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "The Maker Room"
+  youtube          : "https://www.youtube.com/channel/UC2EYhlRGgMbeiCGt3sPRc_Q"
   wikipedia        :
   hackster         : "https://www.hackster.io/milesnash_"
 
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
