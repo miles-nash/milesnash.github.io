@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+B.S. in Electrical Engineering and Computer Science, 2025 (expected)
 ======
-* B.S. in Electrical Engineering and Computer Science, 2025 (expected)
+* [EECS 16AB Designing Information Devices and Systems](https://www.eecs16b.org/)
+* [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa21/)
+* Physics 7AB
 
 
 Work experience
