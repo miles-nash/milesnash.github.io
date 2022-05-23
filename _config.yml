@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Miles Nash"
   avatar           : "profile.png"
-  bio              : "Adventurer and Berkeley Engineer" #descriptor under profile pic
+  bio              : "Lifelong Adventurer and Berkeley Engineer" #descriptor under profile pic
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "miles.r.nash@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
