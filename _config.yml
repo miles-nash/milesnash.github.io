@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Miles Nash"
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   bio              : "Lifelong Adventurer and Berkeley Engineer" #descriptor under profile pic
   location         : "Berkeley, CA"
   employer         :
