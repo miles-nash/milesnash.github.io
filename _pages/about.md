@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hardware, Software, Softskills, and everything inbetween"
+title: "Hi i'm Miles"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Colorado kid learning his way around technology at UC Berkeley. 
+I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of cool people, and build cool projects with cool people.
 
 
 
 What am I up to now?
 ======
-Spending some time at home in Littleton, CO, ready to jet off to Europe later this summer.
+I'm spending some time at home in Littleton, CO, ready to jet off to Europe later this summer.
+1. Reflecting on my freshman year
+1. Designing a new website
+1. Spending time with family and friends
+2. Planning a Europe trip for later this summer
 
 The Hits
 ======
