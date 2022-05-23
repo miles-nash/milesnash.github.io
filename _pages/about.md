@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi i'm Miles"
+title: "Hi I'm Miles!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of cool people, and build cool projects with cool people.
+I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
 
 
