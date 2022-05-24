@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta http-equiv="Refresh" content="0; url='https://sites.google.com/view/milesnash/home'" />
+#<meta http-equiv="Refresh" content="0; url='https://sites.google.com/view/milesnash/home'" />
 
 I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
