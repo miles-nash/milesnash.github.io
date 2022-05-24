@@ -1,6 +1,6 @@
 ---
 title: 'Movin on up'
-date: 05-23-2022
+date: 2022-05-23
 permalink: /posts/2022/05/Movin-on-up/
 tags:
   - Tech
