@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta http-equiv="Refresh" content="0; url='https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca'" />
+<meta http-equiv="Refresh" content="0; url='https://sites.google.com/view/milesnash/home'" />
 
 I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
