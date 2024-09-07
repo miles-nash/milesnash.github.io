@@ -15,20 +15,6 @@ redirect_from:
 
 **[PDF Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
 
-**Coursework**
-
-[EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
-[EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
-[DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
-[DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
-[EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
-[EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
-[CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
-[CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/) - Great Ideas in Computer Architecture <br />
-[CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) - Data Structures <br />
-[CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/) - Computer Programming <br />
-[EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
-[EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 1
 
 **Projects**
 
@@ -43,6 +29,21 @@ Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
 2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
+
+**Coursework**
+
+[EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
+[EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
+[DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
+[DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
+[EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
+[EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
+[CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
+[CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/) - Great Ideas in Computer Architecture <br />
+[CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) - Data Structures <br />
+[CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/) - Computer Programming <br />
+[EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
+[EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 
 
 
 
