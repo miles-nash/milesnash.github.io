@@ -44,11 +44,11 @@ redirect_from:
 [CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) - Data Structures <br />
 [CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/) - Computer Programming <br />
 [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
-[EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 
+[EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems  <br />
 
-[PSYCH162](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001) - Human Hapiness
-[LSC30T](https://curricularconnections.berkeley.edu/ls-discovery-courses/drugs-and-the-brain/) - Drugs and the Brain
-[UGBA 190T](https://haas.berkeley.edu/wp-content/uploads/UGBA190T.5-Design-Your-Life.Kovats.pdf) - Design Your Life
+[PSYCH162](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001) - Human Hapiness  <br />
+[LSC30T](https://curricularconnections.berkeley.edu/ls-discovery-courses/drugs-and-the-brain/) - Drugs and the Brain  <br />
+[UGBA 190T](https://haas.berkeley.edu/wp-content/uploads/UGBA190T.5-Design-Your-Life.Kovats.pdf) - Design Your Life  <br />
 
 **Extracurriculars** <br /> 
 Cal Band - Raised $100K as Fundraising Coordinator. Memorized and performed in 15 unique Halftime shows <br />
