@@ -31,8 +31,8 @@ redirect_from:
 2018 - [Printer Host](https://www.hackster.io/milesnash_/3d-printer-monitoring-with-alexa-and-arduino-024292) - 3D Printer Monitoring/Control with Alexa  <br />
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) - Wifi Enabled IOT device to display Weather Forecast <br />
 
-**Coursework**
-Current:
+**Coursework** <br /> 
+Current:<br /> 
 [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
 [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
