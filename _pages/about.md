@@ -12,12 +12,15 @@ redirect_from:
 <embed src="https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing" width="500" height="375" 
  type="application/pdf">
 
+
+ 
+
 I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
 The Hits
 ======
 1. Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) viewed by over 50,000 people online
-1. Developed Hardware with NASA, Lockheed Martin, and Hypernova Space
+1. Developed Hardware with NASA, Tesla, Lockheed Martin, and Hypernova Space
 1. Recognized by the Office of the President, FIRST Robotics, and UC Berkeley for my leadership ability
 1. Explored my interests in Ultimate Frisbee, Marching Band, Snowboarding, and more
 
