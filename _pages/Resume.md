@@ -17,11 +17,18 @@ redirect_from:
 
 **Coursework**
 
-Fall 2024: [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/), [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/), DATA100 <br />
-Spring 2023: [EECS105](https://www2.eecs.berkeley.edu/Courses/EE105/), [EECS143](https://www2.eecs.berkeley.edu/Courses/EE143/), [CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/), DATA8 <br />
-Fall 2022: [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/), [CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) <br />
-Spring 2022: [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/), Physics7B <br />
-Fall 2021: [EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/), [CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/), Physics7A <br />
+[Embedded Systems](https://www2.eecs.berkeley.edu/Courses/EECS149/) <br />
+[Digital Design (ASIC)](https://www2.eecs.berkeley.edu/Courses/EECS151/) <br />
+DATA100 <br />
+[Microelectronics](https://www2.eecs.berkeley.edu/Courses/EE105/) <br />
+[Microfabrication](https://www2.eecs.berkeley.edu/Courses/EE143/) <br />
+[Computer Architecture](https://www2.eecs.berkeley.edu/Courses/CS61C/) <br />
+DATA8 <br />
+[Discrete Math & Probability](https://www2.eecs.berkeley.edu/Courses/CS70/)
+[Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/) <br />
+[Computer Programming](https://www2.eecs.berkeley.edu/Courses/CS61A/) <br />
+[Digital Systems 2](https://www2.eecs.berkeley.edu/Courses/EECS16B/) <br />
+[Digital Systems 1](https://www2.eecs.berkeley.edu/Courses/EECS16A/)
 
 **Projects**
 
