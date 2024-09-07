@@ -10,7 +10,7 @@ tags:
 
 
 I've had an online presense showcasing my gizmos since about 2015, but only in high school did I put in the effort to organize all of my various projects, videos, news articles, and more into one spot: miles-nash.com.
-Checkout [miles-nash V1] (https://sites.google.com/view/milesnash/home), which lasted me through high school and my first year of college 
+Checkout [miles-nash V1](https://sites.google.com/view/milesnash/home), which lasted me through high school and my first year of college 
 
 This current website is the next iteration.
 
