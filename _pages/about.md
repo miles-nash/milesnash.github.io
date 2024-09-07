@@ -22,13 +22,14 @@ Fall 2021: EECS16A, CS61A, Physics7A <br />
 
 Projects
 ======
-Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) 
+Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
+2018 - [Weather Box]([https://www.hackster.io/milesnash_](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca))  <br />
 
 Industry
 ======
 2024 - Engineering Program Manager @ Tesla <br />
 2022 - Engine Development Intern at Hypernova Space <br />
-2021 - Guidance, Navigation, and Controls Software Engineer @ Lockheed Martin <br />
+2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
 ---
