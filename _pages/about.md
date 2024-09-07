@@ -14,11 +14,11 @@ I'm a Colorado kid learning his way around technology at UC Berkeley. I like to 
 
 Coursework
 ======
-Fall 2024: EECS149, EECS151, DATA100
-Spring 2023: EECS105, EECS149, CS61C, DATA8
-Fall 2022: CS70, CS61B
-Spring 2022: EECS16B, Physics7B
-Fall 2021: EECS16A, CS61A, Physics7A
+\nFall 2024: EECS149, EECS151, DATA100
+\nSpring 2023: EECS105, EECS149, CS61C, DATA8
+\nFall 2022: CS70, CS61B
+\nSpring 2022: EECS16B, Physics7B
+\nFall 2021: EECS16A, CS61A, Physics7A
 
 Projects
 ======
