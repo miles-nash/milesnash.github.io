@@ -13,7 +13,7 @@ A 21 year old from Colorado studying Electrical Engineering and Computer Science
 I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
 
-The Hits
+Highlights
 ------
 1. Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) viewed by over 50,000 people online
 1. Developed Hardware with NASA, Tesla, Lockheed Martin, and Hypernova Space
