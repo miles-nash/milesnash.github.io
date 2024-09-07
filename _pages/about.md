@@ -32,7 +32,7 @@ Industry
 2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
-<h3>
+<h4>
 ---
 
 
