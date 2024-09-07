@@ -35,6 +35,9 @@ redirect_from:
 [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
 [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
+
+--
+
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
 [EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
