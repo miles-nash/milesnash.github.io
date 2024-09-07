@@ -23,7 +23,7 @@ Fall 2021: EECS16A, CS61A, Physics7A <br />
 Projects
 ======
 Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
-2018 - [Weather Box](https://www.hackster.io/milesnash_](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) <br />
+2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) <br />
 
 Industry
 ======
