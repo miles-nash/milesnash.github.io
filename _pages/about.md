@@ -10,6 +10,21 @@ redirect_from:
 
 I'm a 21 year old from Colorado studying Electrical Engineering and Computer Science at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
+
+The Hits
+------
+1. Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) viewed by over 50,000 people online
+1. Developed Hardware with NASA, Tesla, Lockheed Martin, and Hypernova Space
+1. Recognized by the Office of the President, FIRST Robotics, and UC Berkeley for my leadership ability
+1. Explored my interests in Ultimate Frisbee, Marching Band, Snowboarding, and more
+
+What am I up to now?
+------
+1. I am back in Berkeley after a year in Palo Alto interning at Tesla
+1. Spending time with my roomates, friends, and Cal Band
+1. Taking EECS 151, EECS 149, Data 100, and PSYCH 162
+
+
 **[Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
 
 **Coursework**
@@ -32,20 +47,5 @@ Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
 2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
-
-
-
-The Hits
-------
-1. Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) viewed by over 50,000 people online
-1. Developed Hardware with NASA, Tesla, Lockheed Martin, and Hypernova Space
-1. Recognized by the Office of the President, FIRST Robotics, and UC Berkeley for my leadership ability
-1. Explored my interests in Ultimate Frisbee, Marching Band, Snowboarding, and more
-
-What am I up to now?
-------
-1. I am back in Berkeley after a year in Palo Alto interning at Tesla
-1. Spending time with my roomates, friends, and Cal Band
-1. Taking EECS 151, EECS 149, Data 100, and PSYCH 162
 
 
