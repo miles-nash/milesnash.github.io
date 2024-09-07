@@ -37,7 +37,7 @@ redirect_from:
 
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
 [EE198](https://ieee.berkeley.edu/hope/) - Hands-on PCB Engineering <br />
-[EE198](https://decal.studentorg.berkeley.edu/courses/113)n - Hands-on Ham Radio <br />
+[EE198](https://decal.studentorg.berkeley.edu/courses/113) - Hands-on Ham Radio <br />
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
 [EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
 [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
@@ -50,6 +50,8 @@ redirect_from:
 [PSYCH162](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001) - Human Hapiness  <br />
 [LSC30T](https://curricularconnections.berkeley.edu/ls-discovery-courses/drugs-and-the-brain/) - Drugs and the Brain  <br />
 [UGBA 190T](https://haas.berkeley.edu/wp-content/uploads/UGBA190T.5-Design-Your-Life.Kovats.pdf) - Design Your Life  <br />
+JOURN 24 - Journalism in the Digital Age
+NUCENG 24 -  Ethics in the Age of Existential Crisis
 
 **Extracurriculars** <br /> 
 Cal Band - Raised $100K as Fundraising Coordinator. Memorized and performed in 15 unique Halftime shows <br />
