@@ -16,7 +16,7 @@ This current website is the next iteration.
 
 As someone who wants to make a career in tech, its pretty hard to justify using Google Sites as my tool of choice. So here is my first attempt at somthing that might grow with me. Now i've got to thank Github and Jekyll for making it so easy for someone with no webdev experience to throw something together. This really wasn't too much worse than google sites, but I feel like a learned a bit, and I know I've got lots of room to grow. 
 
-Let the record show that as it stands, this site is a simplified version of the Github [Academic Pages] (https://github.com/academicpages/academicpages.github.io) template. I wanted something that was simple, allowed me to host some project writeups, link to others, and maybe even blog a bit. This did the trick. As I grow as a techie, and new tools emerge, i'm sure ill be jumping onto the next thing sooner than I can finish this one. Hopefully though, I can use this as a starting point, porting over my old blogs and projects to whatever comes next.
+Let the record show that as it stands, this site is a simplified version of the Github [Academic Pages](https://github.com/academicpages/academicpages.github.io) template. I wanted something that was simple, allowed me to host some project writeups, link to others, and maybe even blog a bit. This did the trick. As I grow as a techie, and new tools emerge, i'm sure ill be jumping onto the next thing sooner than I can finish this one. Hopefully though, I can use this as a starting point, porting over my old blogs and projects to whatever comes next.
 
 Some things I want to do differently on this site: 
 1. Give a brief description of what I am up to right now.
