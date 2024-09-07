@@ -18,7 +18,7 @@ redirect_from:
 **Coursework**
 
 [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
-[EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design (ASIC) <br />
+[EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
@@ -33,6 +33,7 @@ redirect_from:
 **Projects**
 
 Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
+2022 - [EECS Car](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s) - Voice Activated car built for EECS16B
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) <br />
 
 **Industry**
