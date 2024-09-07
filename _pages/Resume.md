@@ -33,7 +33,7 @@ redirect_from:
 **Projects**
 
 Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
-2022 - [EECS Car](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s) - Voice Activated car built for EECS16B
+2022 - [EECS Car](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s) - Voice Activated robot built for EECS16B [Lab Report](https://drive.google.com/file/d/1c4uVCUPXseaGs5FRi70SFt2Vvlqbobnt/view?usp=sharing) <br />
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) <br />
 
 **Industry**
