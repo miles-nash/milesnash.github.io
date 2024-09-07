@@ -36,7 +36,7 @@ redirect_from:
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
 
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
-[EE198](https://ieee.berkeley.edu/hope/) - Hands-on PCB Engineering
+[EE198](https://ieee.berkeley.edu/hope/) - Hands-on PCB Engineering <br />
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
 [EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
 [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
