@@ -10,18 +10,17 @@ redirect_from:
 
 I'm a 21 year old from Colorado studying Electrical Engineering and Computer Science at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
-[Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)
+**[Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
 
-Coursework
-------
+**Coursework**
 Fall 2024: [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/), [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/), DATA100 <br />
 Spring 2023: [EECS105](https://www2.eecs.berkeley.edu/Courses/EE105/), [EECS143](https://www2.eecs.berkeley.edu/Courses/EE143/), [CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/), DATA8 <br />
 Fall 2022: [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/), [CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) <br />
 Spring 2022: [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/), Physics7B <br />
 Fall 2021: [EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/), [CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/), Physics7A <br />
 
-Projects
-------
+**Projects**
+
 Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) <br />
 
