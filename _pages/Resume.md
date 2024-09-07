@@ -26,7 +26,7 @@ redirect_from:
 **Projects**
 
 2022 - EECS Car - Voice Activated robot built for EECS16B ([Demo](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s)) ([Lab Report](https://drive.google.com/file/d/1c4uVCUPXseaGs5FRi70SFt2Vvlqbobnt/view?usp=sharing)) <br />
-2021 - [NASA HUNCH](https://www.youtube.com/watch?v=zbE-eBxWh30&t=764s)  - National finalists for an error-proof trash ejection system for future mars missions ([Lab report](https://docs.google.com/document/d/1-ZcvsDcg-IvvyyCB2RBFO6jRZ9-qAQk34J8LLBk2R_s/edit?usp=sharing)) <br />
+2021 - [NASA HUNCH](https://www.youtube.com/watch?v=zbE-eBxWh30&t=764s)  - National finalists for an error-proof trash ejection system for future mars missions ([Lab Report](https://docs.google.com/document/d/1-ZcvsDcg-IvvyyCB2RBFO6jRZ9-qAQk34J8LLBk2R_s/edit?usp=sharing)) <br />
 2019 - [Hovercraft](https://www.hackster.io/milesnash_/autonomous-line-following-hovercraft-61db44) - Line following mini hovercraft capeable of lifting 1lb <br />
 2018 - [Printer Host](https://www.hackster.io/milesnash_/3d-printer-monitoring-with-alexa-and-arduino-024292) - 3D Printer Monitoring/Control with Alexa]  <br />
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) - Wifi Enabled IOT device to display Weather Forecast <br />
