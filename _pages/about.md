@@ -26,16 +26,16 @@ Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) <br />
 
 Industry
 ======
+<h5>
 2024 - Engineering Program Manager @ Tesla (1 year) <br />
 2022 - Engine Development Intern at Hypernova Space <br />
 2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
+<h5>
 ---
 
 
-
-https://www2.eecs.berkeley.edu/Courses/EECS16A/ 
 The Hits
 ======
 1. Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_) viewed by over 50,000 people online
