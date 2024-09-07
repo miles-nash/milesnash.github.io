@@ -13,7 +13,7 @@ I'm a 21 year old from Colorado learning about Electrical Engineering at UC Berk
 
 Coursework
 ======
-Fall 2024: [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/)), [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/)), DATA100 <br />
+Fall 2024: [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/), [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/), DATA100 <br />
 Spring 2023: [EECS105](https://www2.eecs.berkeley.edu/Courses/EE105/), [EECS143](https://www2.eecs.berkeley.edu/Courses/EE143/), [CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/), DATA8 <br />
 Fall 2022: [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/), [CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) <br />
 Spring 2022: [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/), Physics7B <br />
