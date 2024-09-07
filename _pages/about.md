@@ -10,8 +10,7 @@ redirect_from:
 
 A 21 year old from Colorado studying Electrical Engineering and Computer Science at UC Berkeley! 
 
-I like to explore, meet new people doing wildly different things than I am, and build cool projects with cool teams.
-
+I want to build impactful projects with exciting teams, and explore as much as possible along the way
 
 Highlights
 ------
