@@ -50,7 +50,7 @@ redirect_from:
 [PSYCH162](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001) - Human Hapiness  <br />
 [LSC30T](https://curricularconnections.berkeley.edu/ls-discovery-courses/drugs-and-the-brain/) - Drugs and the Brain  <br />
 [UGBA 190T](https://haas.berkeley.edu/wp-content/uploads/UGBA190T.5-Design-Your-Life.Kovats.pdf) - Design Your Life  <br />
-JOURN 24 - Journalism in the Digital Age
+JOURN 24 - Journalism in the Digital Age <br />
 NUCENG 24 -  Ethics in the Age of Existential Crisis
 
 **Extracurriculars** <br /> 
