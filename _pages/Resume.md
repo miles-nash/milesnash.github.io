@@ -15,12 +15,6 @@ redirect_from:
 
 **[PDF Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
 
-
-**Projects**
-
-2022 - EECS Car - Voice Activated robot built for EECS16B ([Demo](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s)) ([Lab Report](https://drive.google.com/file/d/1c4uVCUPXseaGs5FRi70SFt2Vvlqbobnt/view?usp=sharing)) <br />
-2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) - Wifi Enabled IOT device to display Weather Forecast <br />
-
 **Industry**
 
 2024 - Engineering Program Manager @ Tesla (1 year) <br /> 
@@ -28,6 +22,12 @@ redirect_from:
 2021 - Guidance Software Engineer @ Lockheed Martin <br />
 2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
+
+**Projects**
+
+2022 - EECS Car - Voice Activated robot built for EECS16B ([Demo](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s)) ([Lab Report](https://drive.google.com/file/d/1c4uVCUPXseaGs5FRi70SFt2Vvlqbobnt/view?usp=sharing)) <br />
+2018 - [Printer Host](https://www.hackster.io/milesnash_/3d-printer-monitoring-with-alexa-and-arduino-024292) - 3D Printer Monitoring/Control with Alexa]
+2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) - Wifi Enabled IOT device to display Weather Forecast <br />
 
 **Coursework**
 
