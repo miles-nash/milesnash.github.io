@@ -10,7 +10,7 @@ redirect_from:
 [comment]: <> (<meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing" />)
 
 {% include base_path %}
-<iframe src="https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/preview" width="640" height="480" allow="autoplay"></iframe>
+[comment]: <> (<iframe src="https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/preview" width="640" height="480" allow="autoplay"></iframe>)
 
 
 **[PDF Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
