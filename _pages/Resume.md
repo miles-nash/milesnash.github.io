@@ -36,6 +36,7 @@ redirect_from:
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
 
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
+[EE198](https://ieee.berkeley.edu/hope/) - Hands-on PCB Engineering
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
 [EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
 [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
@@ -44,6 +45,10 @@ redirect_from:
 [CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/) - Computer Programming <br />
 [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
 [EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 
+
+[PSYCH162](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001) - Human Hapiness
+[LSC30T](https://curricularconnections.berkeley.edu/ls-discovery-courses/drugs-and-the-brain/) - Drugs and the Brain
+[UGBA 190T](https://haas.berkeley.edu/wp-content/uploads/UGBA190T.5-Design-Your-Life.Kovats.pdf) - Design Your Life
 
 **Extracurriculars** <br /> 
 Cal Band - Raised $100K as Fundraising Coordinator. Memorized and performed in 15 unique Halftime shows <br />
