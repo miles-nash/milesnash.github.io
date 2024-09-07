@@ -26,11 +26,8 @@ The Hits
 
 What am I up to now?
 ======
-I'm spending some time at home in Littleton, CO, ready to jet off to Europe later this summer.
-1. Reflecting on my freshman year
-1. Designing a new website
-1. Spending time with family and friends
-1. Planning a Europe trip for later this summer
-
+1. I am back in Berkeley after a year in Palo Alto interning at Tesla
+1. Spending time with my roomates, friends, and Cal Band
+1. Taking EECS 151, EECS 149, Data 100, and PSYCH 162
 
 
