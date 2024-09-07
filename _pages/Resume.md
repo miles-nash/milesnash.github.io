@@ -32,7 +32,7 @@ redirect_from:
 2018 - [Weather Box](https://www.hackster.io/milesnash_/multi-functional-display-for-weather-time-and-date-0827ca) - Wifi Enabled IOT device to display Weather Forecast <br />
 
 **Coursework**
-
+Current:
 [EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
 [EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design and Integrated Circuits (ASIC) <br />
 [DATA100](https://ds100.org/fa24/) - Principles and techniques of Data Science <br />
