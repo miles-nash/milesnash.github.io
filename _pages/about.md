@@ -10,6 +10,7 @@ redirect_from:
 
 I'm a 21 year old from Colorado studying Electrical Engineering and Computer Science at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
+[Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)
 
 Coursework
 ======
