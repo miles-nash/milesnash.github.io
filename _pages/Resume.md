@@ -52,7 +52,7 @@ redirect_from:
 
 **Extracurriculars** <br /> 
 Cal Band - Raised $100K as Fundraising Coordinator. Memorized and performed in 15 unique Halftime shows <br />
-Berkeley Forum - Coordinated Events for Jeanine Nicholson (SF Fire Chief) and Monica Dinculescu (Senior AI Engineer at Google) <br />
+Berkeley Forum - Coordinated Events for Jeanine Nicholson (SF Fire Chief) and Monica Dinculescu (AI Engineer) <br />
 Travel - Solo Travel through Western Europe Summer of 2022
 
 
