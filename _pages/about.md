@@ -15,10 +15,10 @@ I'm a Colorado kid learning his way around technology at UC Berkeley. I like to 
 Coursework
 ======
 Fall 2024: EECS149, EECS151, DATA100 <br />
-\nSpring 2023: EECS105, EECS149, CS61C, DATA8 <br />
-\nFall 2022: CS70, CS61B <br />
-\nSpring 2022: EECS16B, Physics7B <br />
-\nFall 2021: EECS16A, CS61A, Physics7A <br />
+Spring 2023: EECS105, EECS149, CS61C, DATA8 <br />
+Fall 2022: CS70, CS61B <br />
+Spring 2022: EECS16B, Physics7B <br />
+Fall 2021: EECS16A, CS61A, Physics7A <br />
 
 Projects
 ======
@@ -26,11 +26,11 @@ Created [Gadgets and Gizmos](https://www.hackster.io/milesnash_)
 
 Industry
 ======
-2024 - Engineering Program Manager @ Tesla
-2022 - Engine Development Intern at Hypernova Space
-2021 - Guidance, Navigation, and Controls Software Engineer @ Lockheed Martin
-2020 - Manufacturing Operations @ Lockheed Martin
-2019 - Electronic Systems @ Lockheed Martin
+2024 - Engineering Program Manager @ Tesla <br />
+2022 - Engine Development Intern at Hypernova Space <br />
+2021 - Guidance, Navigation, and Controls Software Engineer @ Lockheed Martin <br />
+2020 - Manufacturing Operations @ Lockheed Martin <br />
+2019 - Electronic Systems @ Lockheed Martin <br />
 ---
 
 The Hits
