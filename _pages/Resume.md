@@ -13,7 +13,7 @@ redirect_from:
 <iframe src="https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-**[Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
+**[PDF Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)**
 
 **Coursework**
 
