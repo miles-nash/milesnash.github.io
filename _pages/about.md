@@ -43,7 +43,7 @@ The Hits
 1. Explored my interests in Ultimate Frisbee, Marching Band, Snowboarding, and more
 
 What am I up to now?
-======
+------
 1. I am back in Berkeley after a year in Palo Alto interning at Tesla
 1. Spending time with my roomates, friends, and Cal Band
 1. Taking EECS 151, EECS 149, Data 100, and PSYCH 162
