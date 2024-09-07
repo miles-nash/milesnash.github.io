@@ -30,7 +30,7 @@ Industry
 <h4>2024 - Engineering Program Manager @ Tesla (1 year) <br /> <h4>
 <h3>2022 - Engine Development Intern at Hypernova Space <br /><h3>
 <h2>2021 - Guidance Software Engineer @ Lockheed Martin <br /><h2>
-<h1>2020 - Manufacturing Operations @ Lockheed Martin <br /><h1>
+<h1>2020 - Manufacturing Operations @ Lockheed Martin <br />
 2019 - Electronic Systems @ Lockheed Martin <br />
 ---
 
