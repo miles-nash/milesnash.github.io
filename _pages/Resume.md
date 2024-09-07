@@ -16,16 +16,14 @@ redirect_from:
 [PDF Resume](https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing)
 ---
 
-**Industry**
-
+**Industry**<br /> 
 2024 - Engineering Program Manager Intern @ Tesla (1 year) <br /> 
 2022 - Engine Development Intern @ Hypernova Space <br />
 2021 - Guidance Software Engineer Intern @ Lockheed Martin <br />
 2020 - Manufacturing Operations Intern @ Lockheed Martin <br />
 2019 - Electronic Systems Intern @ Lockheed Martin <br />
 
-**Projects**
-
+**Projects** <br /> 
 2022 - [EECS Car](https://www.youtube.com/watch?v=jPMRPUR4HCE&t=8s) - Voice Activated robot built for EECS16B ([Lab Report](https://drive.google.com/file/d/1c4uVCUPXseaGs5FRi70SFt2Vvlqbobnt/view?usp=sharing)) <br />
 2021 - [NASA HUNCH](https://www.youtube.com/watch?v=zbE-eBxWh30&t=764s)  - National finalists for an error-proof trash ejection system for future mars missions ([Lab Report](https://docs.google.com/document/d/1-ZcvsDcg-IvvyyCB2RBFO6jRZ9-qAQk34J8LLBk2R_s/edit?usp=sharing)) <br />
 2019 - [Hovercraft](https://www.hackster.io/milesnash_/autonomous-line-following-hovercraft-61db44) - Line following mini hovercraft capeable of lifting 1lb <br />
@@ -47,8 +45,7 @@ redirect_from:
 [EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
 [EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 
 
-**Extracurriculars**
-
+**Extracurriculars** <br /> 
 Cal Band - Raised $100K as Fundraising Coordinator. Memorized and performed in 15 unique Halftime shows <br />
 Berkeley Forum - Coordinated Events for Jeanine Nicholson (SF Fire Chief) and Monica Dinculescu (Senior AI Engineer at Google) <br />
 Travel - Solo Travel through Western Europe Summer of 2022
