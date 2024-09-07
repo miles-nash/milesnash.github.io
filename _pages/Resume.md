@@ -17,18 +17,18 @@ redirect_from:
 
 **Coursework**
 
-[Embedded Systems](https://www2.eecs.berkeley.edu/Courses/EECS149/) <br />
-[Digital Design (ASIC)](https://www2.eecs.berkeley.edu/Courses/EECS151/) <br />
+[EECS149](https://www2.eecs.berkeley.edu/Courses/EECS149/) - Embedded Systems<br />
+[EECS151](https://www2.eecs.berkeley.edu/Courses/EECS151/) - Digital Design (ASIC) <br />
 DATA100 <br />
-[Microelectronics](https://www2.eecs.berkeley.edu/Courses/EE105/) <br />
-[Microfabrication](https://www2.eecs.berkeley.edu/Courses/EE143/) <br />
-[Computer Architecture](https://www2.eecs.berkeley.edu/Courses/CS61C/) <br />
+[105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronics <br />
+[EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication <br />
+[CS61C](https://www2.eecs.berkeley.edu/Courses/CS61C/) - Computer Architecture <br />
 DATA8 <br />
-[Discrete Math & Probability](https://www2.eecs.berkeley.edu/Courses/CS70/)
-[Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/) <br />
-[Computer Programming](https://www2.eecs.berkeley.edu/Courses/CS61A/) <br />
-[Digital Systems 2](https://www2.eecs.berkeley.edu/Courses/EECS16B/) <br />
-[Digital Systems 1](https://www2.eecs.berkeley.edu/Courses/EECS16A/)
+[CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
+[CS61B](https://www2.eecs.berkeley.edu/Courses/CS61B/) - Data Structures <br />
+[CS61A](https://www2.eecs.berkeley.edu/Courses/CS61A/) - Computer Programming <br />
+[EECS16B](https://www2.eecs.berkeley.edu/Courses/EECS16B/) - Designing Digital Systems 2 <br />
+[EECS16A](https://www2.eecs.berkeley.edu/Courses/EECS16A/) - Designing Digital Systems 1
 
 **Projects**
 
