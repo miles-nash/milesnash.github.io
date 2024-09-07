@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing" />
 
 
 {% include base_path %}
