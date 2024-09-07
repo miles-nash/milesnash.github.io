@@ -6,14 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-<object data="../files/Resume 2024 - Miles Nash.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-<embed src="https://drive.google.com/file/d/1YTDmHMF5yKJwjE9xgHRStzbapqTyWHEv/view?usp=sharing" width="500" height="375" 
- type="application/pdf">
-
-
- 
+--- 
 
 I'm a Colorado kid learning his way around technology at UC Berkeley. I like to explore, meet all sorts of neat people, and build cool projects with cool teams.
 
