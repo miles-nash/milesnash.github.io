@@ -37,6 +37,7 @@ redirect_from:
 
 [DATA8](https://www.data8.org/fa24/) - Foundations of Data Science <br />
 [EE198](https://ieee.berkeley.edu/hope/) - Hands-on PCB Engineering <br />
+[EE198](https://decal.studentorg.berkeley.edu/courses/113)n - Hands-on Ham Radio <br />
 [EE105](https://www2.eecs.berkeley.edu/Courses/EE105/) -  Microelectronic Devices and Circuits <br />
 [EE143](https://www2.eecs.berkeley.edu/Courses/EE143/) - Microfabrication Technology <br />
 [CS70](https://www2.eecs.berkeley.edu/Courses/CS70/) - Discrete Math & Probability <br />
